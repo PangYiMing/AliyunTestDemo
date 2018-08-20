@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/liuting/Desktop/ApsaraVideo_Player_v3.4.6_Android_20170712/demo/AliyunPlayer/gradle-build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/liuting/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/796963cb9bac87f024e9a905832d9eea/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

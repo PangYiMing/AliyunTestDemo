@@ -1,0 +1,4 @@
+#Mon Aug 20 14:50:14 CST 2018
+base.0=/Users/liuting/Desktop/ApsaraVideo_Player_v3.4.6_Android_20170712/demo/AliyunPlayer/gradle-build/app/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

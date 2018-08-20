@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:Aliyunplayer.AlivcPlayer">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AlivcPlayer-3.4.6.aar/2c7f97a9fcd76d456e7f8383b4d008fe/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AlivcPlayer-3.4.6.aar/2c7f97a9fcd76d456e7f8383b4d008fe/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
