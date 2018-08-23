@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+.idea/
 # Files for the Dalvik VM
 *.dex
 # Java class files
@@ -11,6 +12,7 @@ gen/
 out/
 # Gradle files
 .gradle/
+gradle-build/
 build/
 # Local configuration file (sdk path, etc)
 local.properties
@@ -26,8 +28,3 @@ captures/
 *.iml
 # Keystore files
 *.jks
-
-作者：wavever
-链接：https://www.jianshu.com/p/ea6341224e89
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
