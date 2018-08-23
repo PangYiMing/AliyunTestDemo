@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Mon Aug 20 18:23:37 CST 2018
-0.baseType=DIRECTORY
-0.base=/Users/liuting/Desktop/ApsaraVideo_Player_v3.4.6_Android_20170712/demo/AliyunPlayer/gradle-build/app/intermediates/assets/debug
-0.path=encrypt/encryptedApp.dat
-0.set=ASSET
-count=1
